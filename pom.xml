@@ -7,7 +7,7 @@
   <packaging>pom</packaging>
   <name>deploy_test</name>
   <properties>
-    <struts2.version>2.3.16.3</struts2.version>
+    <struts2.version>2.5.31</struts2.version>
     <struts2-jquery.version>3.7.1</struts2-jquery.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
